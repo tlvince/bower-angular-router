@@ -1,0 +1,23 @@
+{
+  "name": "bower-angular-router",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "description": "Bower shim for @angular/router",
+  "main": "angular1/angular_1_router.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "router",
+    "shim"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angular/angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
